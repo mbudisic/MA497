@@ -1,5 +1,5 @@
-title: MA533 Ordinary Differential Equations (Fall '19)
-baseurl: /MA533-Clarkson-F19
+title: MA497 Undergraduate Research
+baseurl: /MA497
 markdown: kramdown
 kramdown:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables"]
