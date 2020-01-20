@@ -1,1 +1,1 @@
-Repository for the website for MA571 course at Clarkson.
+Repository for the website for MA497 Undergraduate Research with Marko Budisic.
